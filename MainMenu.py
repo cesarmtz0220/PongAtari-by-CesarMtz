@@ -16,6 +16,11 @@ def draw_menu(window, selected):
         color = selection_color if i == selected else black
         text = small_font.render(option, True, color)
         window.blit(text, (width // 2 - text.get_width() // 2, 150 + i * 60))
+
+    inst_font = pygame.font.Font(None, 30)
+    small_text = inst_font.render("Use the arrow keys to move and Enter to select.", True, black)
+    window.blit(small_text, (width // 2 - small_text.get_width() // 2, height - small_text.get_height() - 5))
+
         
     pygame.display.flip()
 
