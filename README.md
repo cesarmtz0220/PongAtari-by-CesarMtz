@@ -36,9 +36,15 @@ The game is a 2-Player designed
 | P1     | `W`         | `S`         |
 | P2     | `↑ Arrow`   | `↓ Arrow`   |
 
+<<<<<<< HEAD
 🎯 First player to reach **5 points** wins the game.
 👉 Press ESC key anytime to return to main menu.
 👉 When games over, you can press R key to play again or ESC to return to main menu. 
+=======
+🎯 First player to reach **5 points** wins the game.  
+👉 Press ESC key anytime to return to main menu.  
+👉 When games over, you can press R key to play again or ESC to return to main menu.  
+>>>>>>> 82f026ae6589e51f409656678978c4ace1d6c3e5
 👉 Use ↑ Arrow, ↓ Arrow and Enter key to navigate on the Menu
 
 ---
